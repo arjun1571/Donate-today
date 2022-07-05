@@ -67,3 +67,10 @@ h1 {
   color: white;
   border-radius: 15px;
 }
+.width-style {
+  width: 30%;
+  margin: 5%;
+  box-shadow: 0 0 10px 5px black;
+  padding: 40px;
+  border-radius: 15px;
+}
