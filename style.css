@@ -32,3 +32,38 @@ h1 {
   color: white;
   border-radius: 15px;
 }
+.donate-style {
+  text-align: center;
+  margin-top: 100px;
+}
+.donate-amount {
+  display: flex;
+}
+.divided-width {
+  width: 15%;
+  margin: 5%;
+  box-shadow: 0 0 10px 5px black;
+  padding: 40px;
+  background-color: gray;
+  color: white;
+}
+#spcific-style {
+  background-color: tomato;
+}
+.payment-input {
+  text-align: center;
+}
+.payment-input input {
+  padding: 15px;
+  width: 300px;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.button-style2 {
+  padding: 20px;
+  width: 200px;
+  background-color: #aa076b;
+  color: white;
+  border-radius: 15px;
+}
