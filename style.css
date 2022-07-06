@@ -1,5 +1,5 @@
 body {
-  font-family: "Roboto Slab", serif;
+  font-family: "Poppins", sans-serif;
 }
 * {
   margin: 0;
@@ -8,12 +8,12 @@ body {
 
 h1 {
   font-size: 50px;
-  color: #a70d2a;
+  color: #800000;
 }
 .home-page {
   color: white;
   text-align: center;
-  background-image: url(images/donation14.webp);
+  background-image: url(images/donation6.jpg);
   height: 800px;
   background-repeat: no-repeat;
   background-size: cover;
@@ -125,4 +125,7 @@ h1 {
   background-color: #ff512f;
   color: white;
   box-shadow: 0 0 10px 3px black;
+}
+.font-center h1 {
+  color: white;
 }
