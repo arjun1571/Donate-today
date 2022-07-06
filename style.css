@@ -104,3 +104,25 @@ h1 {
 .foter {
   padding: 20px;
 }
+.from-style {
+  text-align: center;
+  box-shadow: 0 0 10px 5px black;
+  padding: 50px;
+  margin: 200px 100px;
+  border-radius: 15px;
+}
+.box-style {
+  padding: 15px;
+  margin: 10px;
+  width: 250px;
+  border-radius: 15px;
+}
+.button {
+  padding: 10px;
+  width: 140px;
+  border-radius: 15px;
+  margin-top: 20px;
+  background-color: #ff512f;
+  color: white;
+  box-shadow: 0 0 10px 3px black;
+}
